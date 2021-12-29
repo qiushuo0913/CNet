@@ -1,7 +1,7 @@
   
 Multicell Power Control under QoS Requirements with CNet
 ===
-    To prevent malicious plagiarism by others, we will disclose all the code after the article is officially accepted.
+    To prevent malicious plagiarism by others, we will make all the code avaliable after the article is officially accepted.
 Abstract
 ---
 Multicell power control for sum rate maximization (SRM) is a widely-studied non-convex resource allocation problem in wireless communication systems. 
